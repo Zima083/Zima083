@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zima Jalil</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript,React**
+- 🌱 I have strong knowledge in **Java,Spring Boot**
 
-- 📫 How to reach me **zeekaycs93@gmail.com**
+- 📫 How to reach me **zimajalil@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
