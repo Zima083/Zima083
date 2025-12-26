@@ -3,7 +3,7 @@
 
 - 🌱 I have strong knowledge in **Java,Spring Boot**
 
-- 📫 How to reach me **zimajalil@outlook.com**
+- 📫 How to reach me **zimajalil123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
